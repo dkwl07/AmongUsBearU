@@ -1,4 +1,4 @@
-# mygit
+# myAmogUsBearU
 
 처음 만들어보는 나의 깃허브!
 
